@@ -1,0 +1,21 @@
+
+Top 5 Results for Query 1 - E:/task_5/query\query_1.jpg:
+1. Database Image: E:/task_5/database\dr5rsn0yet6m-dr5rsn0ympkm-cds-3670f40ef7987d5a-20161022-1109-395.jpg, Similarity Score: 1293
+2. Database Image: E:/task_5/database\dr5rsn0yet6k-dr5rsn0ympkm-cds-3670f40ef7987d5a-20161022-1109-425.jpg, Similarity Score: 614
+3. Database Image: E:/task_5/database\dr5rsn0yet6t-dr5rsn0ympkm-cds-3670f40ef7987d5a-20161022-1059-8509.jpg, Similarity Score: 597
+4. Database Image: E:/task_5/database\dr5rsn0yes37-dr5rsn0ymn3r-cds-3670f40ef7987d5a-20161022-1109-1022.jpg, Similarity Score: 582
+5. Database Image: E:/task_5/database\dr5rsn0yes3n-dr5rsn0ymn6p-cds-3670f40ef7987d5a-20161022-1109-932.jpg, Similarity Score: 579
+
+Top 5 Results for Query 2 - E:/task_5/query\query_2.jpg:
+1. Database Image: E:/task_5/database\dr5rsn1tgm9f-dr5rsn1tggkn-cds-22ecab6d4a71bfcf-20160901-1157-7188.jpg, Similarity Score: 1327
+2. Database Image: E:/task_5/database\dr5rsn1w5bcx-dr5rsn1tuppy-cds-22ecab6d4a71bfcf-20160901-1157-7368.jpg, Similarity Score: 300
+3. Database Image: E:/task_5/database\dr5rsn1t7tmt-dr5rsn1tdb8u-cds-22ecab6d4a71bfcf-20160901-1157-7876.jpg, Similarity Score: 263
+4. Database Image: E:/task_5/database\dr5rsn1tsj5s-dr5rsn1terx3-cds-22ecab6d4a71bfcf-20160901-1157-7817.jpg, Similarity Score: 231
+5. Database Image: E:/task_5/database\dr5rsn1qm9qq-dr5rsn1tehzn-cds-22ecab6d4a71bfcf-20160901-1216-81.jpg, Similarity Score: 204
+
+Top 5 Results for Query 3 - E:/task_5/query\query_3.jpg:
+1. Database Image: E:/task_5/database\dr5rsn1w5bcx-dr5rsn1tuppy-cds-22ecab6d4a71bfcf-20160901-1157-7368.jpg, Similarity Score: 1033
+2. Database Image: E:/task_5/database\dr5rsn1tgm9f-dr5rsn1tggkn-cds-22ecab6d4a71bfcf-20160901-1157-7188.jpg, Similarity Score: 277
+3. Database Image: E:/task_5/database\dr5rsn1t7tmt-dr5rsn1tdb8u-cds-22ecab6d4a71bfcf-20160901-1157-7876.jpg, Similarity Score: 201
+4. Database Image: E:/task_5/database\dr5rsn1tsj5s-dr5rsn1terx3-cds-22ecab6d4a71bfcf-20160901-1157-7817.jpg, Similarity Score: 182
+5. Database Image: E:/task_5/database\dr5rsn1qm9qq-dr5rsn1tehzn-cds-22ecab6d4a71bfcf-20160901-1216-81.jpg, Similarity Score: 159
